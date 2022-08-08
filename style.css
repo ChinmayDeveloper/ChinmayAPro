@@ -4,6 +4,8 @@
     margin: 10px;
     padding: 0px;
     text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color:khaki;
 }
 
 #myphoto {
@@ -14,6 +16,7 @@
 #myphoto:hover {
     width: 600px;
     height: 400px;
+    border: 2px solid black;
 }
 
 iframe {
@@ -31,12 +34,29 @@ iframe {
     border: 2px solid black;
 }
 
-#hobbies:hover {
-    color: black;
-    background-color: yellow;
+#about:hover {
     border: 2px solid black;
 }
-.sociallinks img{
+
+.techlogos:hover {
+    border: 2px solid black;
+}
+
+#hobbies:hover {
+    color: black;
+    border: 2px solid black;
+}
+
+.sociallinks img {
     height: 20px;
     width: 20px;
+}
+
+#hobbies img {
+    height: 100px;
+}
+
+#hobbies img:hover {
+    height: 150px;
+    width: 150px;
 }
