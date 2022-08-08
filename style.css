@@ -5,17 +5,17 @@
     padding: 0px;
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    background-color:khaki;
+    background-color:rgb(201, 175, 201);
 }
 
 #myphoto {
-    width: 300px;
+    width: 200px;
     height: 200px;
 }
 
 #myphoto:hover {
-    width: 600px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     border: 2px solid black;
 }
 
