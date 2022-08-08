@@ -1,0 +1,42 @@
+* {
+    /* color: white; */
+    /* background-color: black; */
+    margin: 10px;
+    padding: 0px;
+    text-align: center;
+}
+
+#myphoto {
+    width: 300px;
+    height: 200px;
+}
+
+#myphoto:hover {
+    width: 600px;
+    height: 400px;
+}
+
+iframe {
+    width: 100%;
+}
+
+.techlogos img {
+    height: 40px;
+    width: 40px;
+}
+
+.techlogos img:hover {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+#hobbies:hover {
+    color: black;
+    background-color: yellow;
+    border: 2px solid black;
+}
+.sociallinks img{
+    height: 20px;
+    width: 20px;
+}
